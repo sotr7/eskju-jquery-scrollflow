@@ -1,0 +1,12 @@
+{
+  "name": "eskju-jquery-scrollflow",
+  "version": "1.0.0",
+  "main": "./js/eskju.jquery.scrollflow.min.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0",
+  }
+}
